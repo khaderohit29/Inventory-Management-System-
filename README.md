@@ -1,5 +1,5 @@
 
-# Telusko Trac - Product Inventory Management
+Product Inventory Management
 
 A comprehensive product inventory management system built with FastAPI backend and React frontend, providing seamless tracking and management of product inventory.
 
@@ -77,8 +77,3 @@ curl -X POST "http://localhost:8000/products/" \
 - `price`: float
 - `quantity`: integer
 
-## Built With
-
-- [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast web framework for building APIs
-- [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation using Python type hints
-- [Uvicorn](https://www.uvicorn.org/) - ASGI server implementation
